@@ -1,0 +1,15 @@
+C:\Users\MDT\CODESAT\CodeSatSomething\bin\Debug\net6.0\CodeSatSomething.exe
+C:\Users\MDT\CODESAT\CodeSatSomething\bin\Debug\net6.0\CodeSatSomething.deps.json
+C:\Users\MDT\CODESAT\CodeSatSomething\bin\Debug\net6.0\CodeSatSomething.runtimeconfig.json
+C:\Users\MDT\CODESAT\CodeSatSomething\bin\Debug\net6.0\CodeSatSomething.dll
+C:\Users\MDT\CODESAT\CodeSatSomething\bin\Debug\net6.0\CodeSatSomething.pdb
+C:\Users\MDT\CODESAT\CodeSatSomething\obj\Debug\net6.0\CodeSatSomething.csproj.AssemblyReference.cache
+C:\Users\MDT\CODESAT\CodeSatSomething\obj\Debug\net6.0\CodeSatSomething.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MDT\CODESAT\CodeSatSomething\obj\Debug\net6.0\CodeSatSomething.AssemblyInfoInputs.cache
+C:\Users\MDT\CODESAT\CodeSatSomething\obj\Debug\net6.0\CodeSatSomething.AssemblyInfo.cs
+C:\Users\MDT\CODESAT\CodeSatSomething\obj\Debug\net6.0\CodeSatSomething.csproj.CoreCompileInputs.cache
+C:\Users\MDT\CODESAT\CodeSatSomething\obj\Debug\net6.0\CodeSatSomething.dll
+C:\Users\MDT\CODESAT\CodeSatSomething\obj\Debug\net6.0\refint\CodeSatSomething.dll
+C:\Users\MDT\CODESAT\CodeSatSomething\obj\Debug\net6.0\CodeSatSomething.pdb
+C:\Users\MDT\CODESAT\CodeSatSomething\obj\Debug\net6.0\CodeSatSomething.genruntimeconfig.cache
+C:\Users\MDT\CODESAT\CodeSatSomething\obj\Debug\net6.0\ref\CodeSatSomething.dll
